@@ -25,14 +25,13 @@
 ### 🧭 About Me
 
 ```
-I am at the beginning of my software engineering journey — currently building a
+I am at the beginning of my computer science journey currently building a
 strong foundation in C++ fundamentals and Object-Oriented Programming, including
-constructors, copy constructors, and pointer mechanics.
+constructors,copy constructors and pointer mechanics.
 
-I actively practice problem-solving on Codeforces to sharpen my logical thinking
-and data structures & algorithms skills. My goal is to grow into a well-rounded
-software engineer with strong fundamentals in computer science, data structures,
-algorithms, and real-world development practices.
+I actively practice problem-solving on Codeforces to sharpen my Logical Thinking
+and Data structures & Algorithms skills.My goal is to grow with strong fundamentals in computer science,
+data structures,algorithms and real-world development practices.
 ```
 
 **🎯 Open To:** Learning opportunities · Internships · Mentorship · Open-source collaboration · Study partners in DSA/CP
@@ -64,16 +63,12 @@ current_focus:
     - Pointers & Memory Management
     - Data Structures & Algorithms
 
-  building:
-    - Small C++ console programs to reinforce OOP concepts
-
   exploring:
     - Competitive Programming strategies
     - Codeforces problem archives
 
   open_to:
-    - Internships
-    - Mentorship
+    - Helping in Recruitment Labs for research
     - Collaborative learning / study groups
 ```
 
@@ -130,7 +125,6 @@ current_focus:
 
 </div>
 
-> Note: The snake animation requires a one-time GitHub Actions workflow set up in your profile repository to generate the SVG automatically.
 
 ---
 
