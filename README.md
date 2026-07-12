@@ -42,13 +42,12 @@ data structures,algorithms and real-world development practices.
 
 **Languages**
 
-![C++](https://skillicons.dev/icons?i=cpp)
+
 ![C](https://skillicons.dev/icons?i=c)
 
 **Currently Learning**
 
-![Python](https://skillicons.dev/icons?i=python)
-![Git](https://skillicons.dev/icons?i=git)
+![C++](https://skillicons.dev/icons?i=cpp)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
 ---
@@ -141,7 +140,7 @@ current_focus:
 
 <div align="center">
 
-*"Every expert was once a beginner. Every pro was once an amateur."*
+*"Every Expert was once a Beginner.Every pro was once an Amateur."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:6a0dad,100:1a1a2e&height=120&section=footer" width="100%"/>
 
