@@ -8,7 +8,7 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍_Location-NUST-H12-6A0DAD?style=flat-square&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/📍_Location-NUST-6A0DAD?style=flat-square&labelColor=1a1a2e)
 [![GitHub](https://img.shields.io/badge/GitHub-savagefahad--49-4B0082?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/savagefahad-49)
 [![Codeforces](https://img.shields.io/badge/Codeforces-fahad__huzaifa-6A0DAD?style=flat-square&logo=codeforces&logoColor=white&labelColor=1a1a2e)](https://codeforces.com/profile/fahad_huzaifa)
 
