@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:4b0082&height=220&section=header&text=Fahad%20Huzaifa&fontSize=52&fontColor=E0D7FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20C%2B%2B%20%26%20DSA&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:4b0082&height=220&section=header&text=Fahad%20Huzaifa&fontSize=70&fontColor=E0D7FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20C%2B%2B%20%26%20DSA&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=800&color=B892FF&center=true&vCenter=true&width=650&lines=Learning+C%2B%2B+Fundamentals+%26+OOP;Solving+Problems+on+Codeforces;Building+a+Strong+DSA+Foundation;Open+to+Learning+%26+Collaboration" alt="Typing SVG" />
@@ -88,19 +88,7 @@ current_focus:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=savagefahad-49&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=B892FF&icon_color=8A2BE2&text_color=E0D7FF" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=savagefahad-49&theme=radical&hide_border=true&background=0d0d1a&ring=8A2BE2&fire=B892FF&currStreakLabel=B892FF" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savagefahad-49&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=B892FF&text_color=E0D7FF" width="60%"/>
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=savagefahad-49&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savagefahad-49&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=B892FF&text_color=E0D7FF" width="49%"/>
 
 </div>
 
@@ -113,17 +101,6 @@ current_focus:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=savagefahad-49&theme=react-dark&hide_border=true&bg_color=0d0d1a&color=B892FF&line=8A2BE2&point=E0D7FF" width="100%"/>
 
 </div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/savagefahad-49/savagefahad-49/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
 
 ---
 
